@@ -2,6 +2,9 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.2.0.
 
+## Project Link
+[Angular Expense Tracker App](https://klyzecarize.github.io/angular-expense-tracker-app)
+
 ## Development server
 
 To start a local development server, run:
