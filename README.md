@@ -1,9 +1,15 @@
 # AngularExpenseTrackerApp
+This project is for me to familiarize angular framework with the help of tutorials, AI, and from my previous vanilla js learnings.
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.2.0.
 
 ## Project Link
 [Angular Expense Tracker App](https://klyzecarize.github.io/angular-expense-tracker-app)
+
+## Dev Logs
+  - 08/22/2025
+    - Deployed the newly created angular app
+    - Added PWA feature in the app
 
 ## Development server
 
